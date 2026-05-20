@@ -1,8 +1,8 @@
 # Hi! I'm Bálint
 
--I am 22 years old </b>
--Software Engineer | BSc in Computer Science @ ELTE </b>
--Currently studying MSc in Computer Science @ ELTE </b>
+-I am 22 years old <br />
+-Software Engineer | BSc in Computer Science @ ELTE <br />
+-Currently studying MSc in Computer Science @ ELTE <br />
 
 ## About Me
 
