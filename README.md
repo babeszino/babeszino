@@ -5,6 +5,8 @@
 -Currently studying MSc in Computer Science @ ELTE <br />
 
 ## About Me
+Currently working in:
+* Drone development
 
 I'm interested in:
 
