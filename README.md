@@ -11,6 +11,7 @@ Currently working in:
 I'm interested in:
 
 * Game development (mainly using Godot)
+* Robotics
 * Frontend development
 * Flutter app development
 * Python programming
